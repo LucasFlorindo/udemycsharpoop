@@ -1,0 +1,6 @@
+C:\temp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+C:\temp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+C:\temp\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+C:\temp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\temp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+C:\temp\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb

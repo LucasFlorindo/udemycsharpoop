@@ -1,0 +1,7 @@
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\bin\Debug\ex03udemycsharp.exe.config
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\bin\Debug\ex03udemycsharp.exe
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\bin\Debug\ex03udemycsharp.pdb
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\obj\Debug\ex03udemycsharp.csproj.AssemblyReference.cache
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\obj\Debug\ex03udemycsharp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\obj\Debug\ex03udemycsharp.exe
+C:\temp\projetos\ex03udemycsharp\ex03udemycsharp\obj\Debug\ex03udemycsharp.pdb

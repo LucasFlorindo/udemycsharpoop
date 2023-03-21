@@ -1,0 +1,6 @@
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\bin\Debug\ex04udemycsharp.exe.config
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\bin\Debug\ex04udemycsharp.exe
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\bin\Debug\ex04udemycsharp.pdb
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\obj\Debug\ex04udemycsharp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\obj\Debug\ex04udemycsharp.exe
+C:\temp\projetos\ex04udemycsharp\ex04udemycsharp\obj\Debug\ex04udemycsharp.pdb
