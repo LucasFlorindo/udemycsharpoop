@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\bin\Debug\aulaforudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\bin\Debug\aulaforudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\bin\Debug\aulaforudemycsharp.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\obj\Debug\aulaforudemycsharp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\obj\Debug\aulaforudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\obj\Debug\aulaforudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaforudemycsharp\aulaforudemycsharp\obj\Debug\aulaforudemycsharp.pdb

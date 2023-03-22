@@ -1,0 +1,6 @@
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\bin\Debug\ex02forudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\bin\Debug\ex02forudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\bin\Debug\ex02forudemycsharp.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\obj\Debug\ex02forudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\obj\Debug\ex02forudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex02forudemycsharp\ex02forudemycsharp\obj\Debug\ex02forudemycsharp.pdb
