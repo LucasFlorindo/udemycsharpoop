@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\bin\Debug\funcoessintaxeudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\bin\Debug\funcoessintaxeudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\bin\Debug\funcoessintaxeudemycsharp.pdb
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\obj\Debug\funcoessintaxeudemycsharp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\obj\Debug\funcoessintaxeudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\obj\Debug\funcoessintaxeudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\funcoessintaxeudemycsharp\funcoessintaxeudemycsharp\obj\Debug\funcoessintaxeudemycsharp.pdb
