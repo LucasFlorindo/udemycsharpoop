@@ -1,0 +1,6 @@
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\bin\Debug\ex06condicionaisudemycsharp.exe.config
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\bin\Debug\ex06condicionaisudemycsharp.exe
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\bin\Debug\ex06condicionaisudemycsharp.pdb
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\obj\Debug\ex06condicionaisudemycsharp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\obj\Debug\ex06condicionaisudemycsharp.exe
+C:\temp\projetos\ex06condicionaisudemycsharp\ex06condicionaisudemycsharp\obj\Debug\ex06condicionaisudemycsharp.pdb
