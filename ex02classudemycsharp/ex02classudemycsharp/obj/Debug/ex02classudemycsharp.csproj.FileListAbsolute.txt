@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\bin\Debug\ex02classudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\bin\Debug\ex02classudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\bin\Debug\ex02classudemycsharp.pdb
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\obj\Debug\ex02classudemycsharp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\obj\Debug\ex02classudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\obj\Debug\ex02classudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\ex02classudemycsharp\ex02classudemycsharp\obj\Debug\ex02classudemycsharp.pdb

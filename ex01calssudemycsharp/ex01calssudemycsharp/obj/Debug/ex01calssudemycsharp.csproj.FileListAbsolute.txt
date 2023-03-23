@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\bin\Debug\ex01calssudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\bin\Debug\ex01calssudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\bin\Debug\ex01calssudemycsharp.pdb
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\obj\Debug\ex01calssudemycsharp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\obj\Debug\ex01calssudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\obj\Debug\ex01calssudemycsharp.exe
+C:\Users\Lucas Rodrigues\source\repos\ex01calssudemycsharp\ex01calssudemycsharp\obj\Debug\ex01calssudemycsharp.pdb

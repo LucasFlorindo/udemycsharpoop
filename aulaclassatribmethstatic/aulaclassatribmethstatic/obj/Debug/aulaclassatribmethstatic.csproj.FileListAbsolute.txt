@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\bin\Debug\aulaclassatribmethstatic.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\bin\Debug\aulaclassatribmethstatic.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\bin\Debug\aulaclassatribmethstatic.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\obj\Debug\aulaclassatribmethstatic.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\obj\Debug\aulaclassatribmethstatic.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\obj\Debug\aulaclassatribmethstatic.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaclassatribmethstatic\aulaclassatribmethstatic\obj\Debug\aulaclassatribmethstatic.pdb
