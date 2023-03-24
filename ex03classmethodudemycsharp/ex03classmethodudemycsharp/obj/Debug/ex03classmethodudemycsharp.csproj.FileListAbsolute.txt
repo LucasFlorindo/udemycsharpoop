@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\bin\Debug\ex03classmethodudemycsharp.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\bin\Debug\ex03classmethodudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\bin\Debug\ex03classmethodudemycsharp.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\obj\Debug\ex03classmethodudemycsharp.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\obj\Debug\ex03classmethodudemycsharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\obj\Debug\ex03classmethodudemycsharp.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex03classmethodudemycsharp\ex03classmethodudemycsharp\obj\Debug\ex03classmethodudemycsharp.pdb
