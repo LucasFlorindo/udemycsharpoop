@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\bin\Debug\aula01classatribmethstatic.exe.config
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\bin\Debug\aula01classatribmethstatic.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\bin\Debug\aula01classatribmethstatic.pdb
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\obj\Debug\aula01classatribmethstatic.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\obj\Debug\aula01classatribmethstatic.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\obj\Debug\aula01classatribmethstatic.exe
+C:\Users\Lucas Rodrigues\temp\SolidAPI\treinamento Solid API\aula01classatribmethstatic\aula01classatribmethstatic\obj\Debug\aula01classatribmethstatic.pdb
