@@ -8,10 +8,10 @@ namespace Course
 {
     class Produto
     {
-        private  string Nome;
-         private double Preco;
-         private int Quantidade;
-
+        public string Nome;
+        public double Preco;
+        public int Quantidade;
+        
         public Produto(string nome, double preco, int quantidade)
         {
             Nome = nome;
