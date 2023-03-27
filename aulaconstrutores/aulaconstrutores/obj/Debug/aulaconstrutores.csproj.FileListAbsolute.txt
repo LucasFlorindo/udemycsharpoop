@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\bin\Debug\aulaconstrutores.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\bin\Debug\aulaconstrutores.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\bin\Debug\aulaconstrutores.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\obj\Debug\aulaconstrutores.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\obj\Debug\aulaconstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\obj\Debug\aulaconstrutores.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaconstrutores\aulaconstrutores\obj\Debug\aulaconstrutores.pdb
