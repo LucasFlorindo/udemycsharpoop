@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\bin\Debug\aulamembrosestaticos.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\bin\Debug\aulamembrosestaticos.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\bin\Debug\aulamembrosestaticos.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\obj\Debug\aulamembrosestaticos.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\obj\Debug\aulamembrosestaticos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\obj\Debug\aulamembrosestaticos.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulamembrosestaticos\aulamembrosestaticos\obj\Debug\aulamembrosestaticos.pdb

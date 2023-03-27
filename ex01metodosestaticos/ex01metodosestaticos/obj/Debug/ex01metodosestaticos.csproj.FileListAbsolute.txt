@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\bin\Debug\ex01metodosestaticos.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\bin\Debug\ex01metodosestaticos.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\bin\Debug\ex01metodosestaticos.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\obj\Debug\ex01metodosestaticos.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\obj\Debug\ex01metodosestaticos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\obj\Debug\ex01metodosestaticos.exe
+C:\Users\Lucas Rodrigues\temp\projetos\ex01metodosestaticos\ex01metodosestaticos\obj\Debug\ex01metodosestaticos.pdb
