@@ -4,46 +4,38 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
-namespace Course
+
+namespace aulaencapsulamento
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
-        
-
+        private string _nome;
+        public double Preco { get; private set; }
+        public double Quantidade { get; set; }
         public Produto()
         {
-            Quantidade = 10;
-        }
-
-        public Produto(string nome, double preco) : this()
-        {
-            Nome = nome;
-            Preco = preco;
-        }
-
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
-        {
-            Quantidade = quantidade;
         }
         public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
-         
-        public Produto (string nome, double preco)
+        public string Nome
         {
-            Nome = nome;
-            Preco = preco;
-            // mesmo colocando essa linha, os valores numéricos sepre são iniciados como zero, // Quantidade = 0;
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
         }
-        public double ValorTotalEmEstoque()
+
+        public double ValorTotalEmEstoque
         {
-            return Preco * Quantidade;
+            get { return Preco * Quantidade; }
         }
         public void AdicionarProdutos(int quantidade)
         {
@@ -55,13 +47,13 @@ namespace Course
         }
         public override string ToString()
         {
-            return Nome
+            return _nome
             + ", $ "
             + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
             + Quantidade
             + " unidades, Total: $ "
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            + ValorTotalEmEstoque.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

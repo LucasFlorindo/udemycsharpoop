@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\bin\Debug\exfixacaoOOP.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\bin\Debug\exfixacaoOOP.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\bin\Debug\exfixacaoOOP.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\obj\Debug\exfixacaoOOP.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\obj\Debug\exfixacaoOOP.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\obj\Debug\exfixacaoOOP.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exfixacaoOOP\exfixacaoOOP\obj\Debug\exfixacaoOOP.pdb

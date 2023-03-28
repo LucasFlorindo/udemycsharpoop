@@ -21,6 +21,15 @@ namespace Course
 
             Produto p = new Produto(nome, preco);
 
+            Produto p2 = new Produto();
+
+
+            // Funciona mesmo que a classe não tenha construtores, Mas se a classe tiver quantiade definida de construtores, não roda.
+
+
+            Produto p3 = new Produto { Nome = "TV", Preco = 500.00, Quantidade = 2 };
+
+
 
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
