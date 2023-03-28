@@ -10,6 +10,8 @@ namespace exfixacaoOOP
     {
         static void Main(string[] args)
         {
+
+            //declarar a variavel conta de inicio é uma boa prática
             ContaBancaria conta;
 
             Console.Write("Entre o número da conta: ");

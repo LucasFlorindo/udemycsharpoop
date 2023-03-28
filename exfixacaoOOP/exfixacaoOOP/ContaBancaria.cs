@@ -34,6 +34,8 @@ namespace exfixacaoOOP
             Saldo -= quantia + 5;
         }
 
+
+        // override como método de saía string para representar a classe dentro do programa principal. 
         public override string ToString()
         {
             return "Conta "
