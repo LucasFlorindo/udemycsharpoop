@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\bin\Debug\aulanullable01.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\bin\Debug\aulanullable01.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\bin\Debug\aulanullable01.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\obj\Debug\aulanullable01.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\obj\Debug\aulanullable01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\obj\Debug\aulanullable01.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulanullable01\aulanullable01\obj\Debug\aulanullable01.pdb
