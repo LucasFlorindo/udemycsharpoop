@@ -13,6 +13,7 @@ namespace aulaParams
             int result = Calculator.Sum(new int[] { 10, 20, 30, 40 });
 
             // ref faz a nova variável apontar para o mesmo escopo da variavel referenciada ex: int a = 10; ref int x  = onde a aponta.
+            // out faz a nova função apontar para uma variável
 
         }
     }
