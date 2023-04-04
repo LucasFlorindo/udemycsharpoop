@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\bin\Debug\aulaArrays01.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\bin\Debug\aulaArrays01.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\bin\Debug\aulaArrays01.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\obj\Debug\aulaArrays01.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\obj\Debug\aulaArrays01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\obj\Debug\aulaArrays01.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulaArrays01\aulaArrays01\obj\Debug\aulaArrays01.pdb
