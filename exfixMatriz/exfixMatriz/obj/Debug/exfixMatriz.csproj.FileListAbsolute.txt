@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\bin\Debug\exfixMatriz.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\bin\Debug\exfixMatriz.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\bin\Debug\exfixMatriz.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\obj\Debug\exfixMatriz.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\obj\Debug\exfixMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\obj\Debug\exfixMatriz.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exfixMatriz\exfixMatriz\obj\Debug\exfixMatriz.pdb
