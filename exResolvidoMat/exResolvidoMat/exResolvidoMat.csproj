@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E029748C-A418-4A4E-BEAF-CB47E7A92243}</ProjectGuid>
+    <ProjectGuid>{B5A8BACB-D700-46DB-AC88-6D8FBB90D81D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>aulaListas01</RootNamespace>
-    <AssemblyName>aulaListas01</AssemblyName>
+    <RootNamespace>exResolvidoMat</RootNamespace>
+    <AssemblyName>exResolvidoMat</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E029748C-A418-4A4E-BEAF-CB47E7A92243}</ProjectGuid>
+    <ProjectGuid>{350E7135-47DC-4EF6-B8ED-C1299C1E85D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>aulaListas01</RootNamespace>
-    <AssemblyName>aulaListas01</AssemblyName>
+    <RootNamespace>aulaMatrix01</RootNamespace>
+    <AssemblyName>aulaMatrix01</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

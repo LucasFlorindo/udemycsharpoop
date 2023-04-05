@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\bin\Debug\exResolvidoMat.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\bin\Debug\exResolvidoMat.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\bin\Debug\exResolvidoMat.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\obj\Debug\exResolvidoMat.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\obj\Debug\exResolvidoMat.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\obj\Debug\exResolvidoMat.exe
+C:\Users\Lucas Rodrigues\temp\projetos\exResolvidoMat\exResolvidoMat\obj\Debug\exResolvidoMat.pdb
