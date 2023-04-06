@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\bin\Debug\aulafuncint.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\bin\Debug\aulafuncint.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\bin\Debug\aulafuncint.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\obj\Debug\aulafuncint.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\obj\Debug\aulafuncint.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\obj\Debug\aulafuncint.exe
+C:\Users\Lucas Rodrigues\temp\projetos\aulafuncint\aulafuncint\obj\Debug\aulafuncint.pdb
