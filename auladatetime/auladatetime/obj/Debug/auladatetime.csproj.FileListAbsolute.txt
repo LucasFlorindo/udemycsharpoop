@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\bin\Debug\auladatetime.exe.config
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\bin\Debug\auladatetime.exe
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\bin\Debug\auladatetime.pdb
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\obj\Debug\auladatetime.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\obj\Debug\auladatetime.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\obj\Debug\auladatetime.exe
+C:\Users\Lucas Rodrigues\temp\projetos\auladatetime\auladatetime\obj\Debug\auladatetime.pdb
